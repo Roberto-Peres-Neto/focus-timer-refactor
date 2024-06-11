@@ -7,7 +7,7 @@ import {
 
 export default function Sound() {
   const buttonPressAudio = new Audio(
-    "https://github.com/maykbrito/automatic-video-creator/blob/master/audios/button-press.wav?raw=true"
+    "../sound/audios_button-press.wav"
   );
 
   const KitchenTimer = new Audio(
