@@ -31,20 +31,3 @@ PT = Esse projeto tem como finalidade colocar em prática JavaScript, HTML e CSS
 In the links below you will find the layout of the web project and also the mobile one. Remembering that you need to have an account on [Figma](http://figma.com/) to access it.
 
 [Layout Web / Mobile](<https://www.figma.com/file/Gu1pBI6IR0ZI0lIiyB8mHH/Stage-05---Dark-Mode-FocusTimer-(Copy)?node-id=0%3A1>)
-
-## Usage
-
-To use this project, go to the link:
-
-[Link Project](https://igorsilvam.github.io/FocusTimer-2.0/)
-
-## Contact
-
-<img align="left" src="https://avatars.githubusercontent.com/igorsilvam?size=100">
-
-Made with by [Igor Silva](https://github.com/igorsilvam), get in touch!
-
-<a href="mailto:igoratendimento@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
-<a href="https://www.linkedin.com/in/igor-da-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
-
-<br clear="left"/>
